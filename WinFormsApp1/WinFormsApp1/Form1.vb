@@ -4,7 +4,7 @@
         FileOpen(1, "C:\丙設資料\1060301.SM", OpenMode.Input)
         Input(1, m0)
         FileClose(1)
-        m0 = 1234554321
+        m0 = 123321
         m1 = m0
         For i = 1 To 9
             m2 = m1 \ 10
