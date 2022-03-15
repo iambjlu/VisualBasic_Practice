@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\1060303",
+    "\\1060304",
+    "\\1060304\\WinFormsApp1",
+    "\\1060304\\WinFormsApp1\\WinFormsApp1"
   ],
-  "SelectedNode": "\\範例光碟(公告測試參考資料區)",
+  "SelectedNode": "\\1060304\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
   "PreviewInSolutionExplorer": false
 }
